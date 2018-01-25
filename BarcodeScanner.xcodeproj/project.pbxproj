@@ -427,9 +427,9 @@
                 DEVELOPMENT_TEAM = UW7469NL6K;
 				INFOPLIST_FILE = BarcodeScanner/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.--------.BarcodeScanner";
+                PRODUCT_BUNDLE_IDENTIFIER = "com.--------.BarcodeScanner";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE_SPECIFIER = "";
+                PROVISIONING_PROFILE_SPECIFIER = "";
 			};
 			name = Debug;
 		};
@@ -440,7 +440,7 @@
                 DEVELOPMENT_TEAM = UW7469NL6K;
 				INFOPLIST_FILE = BarcodeScanner/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.--------.BarcodeScanner";
+                PRODUCT_BUNDLE_IDENTIFIER = "com.--------.BarcodeScanner";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 			};
